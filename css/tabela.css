@@ -1,0 +1,66 @@
+html {
+    margin: 0;
+    padding: 0;
+  /* background-image: linear-gradient( rgb(115, 12, 134), rgb(40, 8, 99)); */
+    background-color: rgb(68, 1, 80);
+    height: 100%;
+ }
+ 
+ #logo {
+     margin-top: -8%;
+     margin-left: 32%;
+ }
+
+ a{ 
+    text-decoration: none;
+    color: white;
+    margin-top: 8%;
+ }
+
+#campo{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 28%;
+    margin-right: 30%;
+    margin-top: -15%;
+ }
+
+
+.header{
+    border-bottom: 1px solid white;
+}
+
+.header:hover{
+    border-bottom: 1px solid rgb(65, 5, 103);
+}
+
+main img{
+    border-radius: 5px;
+    border: solid 2px rgb(0, 0, 0);
+    margin-top: -12%;
+}
+
+main{
+    margin-top: 20%;
+    padding-bottom: 20%;
+}
+
+H1{
+    text-align: center;
+    margin-top: 20%;
+}
+h6{
+    text-align: center;
+    margin-top: 30%;
+    font-size: 120%;
+}
+
+div img{
+    margin-bottom: 10%;
+    border-radius: 5px;
+}
+
+#ASSINATURA{
+    margin-left: 20%;
+    margin-top: 10%;
+ }
