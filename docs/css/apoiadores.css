@@ -10,7 +10,7 @@ html {
     margin-top: -20%;
 }
  
- P{
+ p{
     COLOR: white;
     text-align: center;
     margin-top: 15%;
@@ -33,7 +33,7 @@ html {
    justify-content: space-evenly;
    margin-left: 28%;
    margin-right: 30%;
-   margin-top: -25%;
+   margin-top: -20%;
 }
 
 #buttons{
