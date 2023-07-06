@@ -16,7 +16,7 @@ html {
  }
 
  p{
-    text-align: center;
+    text-align: start;
  }
 
  a{ 
@@ -42,7 +42,7 @@ html {
     border-bottom: 1px solid rgb(65, 5, 103);
 }
 
-#center{
+#center h1, p{
     text-align: center;
 }
 
@@ -70,6 +70,7 @@ html {
 .font{
     font-size: 170%;
     color: rgb(90, 8, 168);
+    align-items: center;
 }
 
 .placar{
@@ -85,6 +86,10 @@ html {
     border-radius: 10px;
     margin-top: -5%;
     justify-content: baseline;
+}
+
+.sets p{
+    text-align: center;
 }
 
 img{

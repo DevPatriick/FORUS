@@ -26,14 +26,6 @@ html {
  
  button:hover{
      background-color: rgb(220, 0, 184);
-     color: white;
-     width: 70%;
-     height: 42px;
-     margin-top:4px;
-     align-items: center;
-     margin-left: 15%;
-     border-radius: 8px;
-     border-color: rgb(253, 251, 251);
      cursor: pointer;
  }
  
@@ -106,4 +98,12 @@ html {
     width: 30%;
     padding-left: 160px;
  }
+ #campo{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 25%;
+    margin-right: 30%;
+    margin-top: -25%;
+ }
+ 
  }
